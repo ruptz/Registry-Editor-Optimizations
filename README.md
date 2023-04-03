@@ -62,11 +62,11 @@ Next, find your ipv4 address and the files on the left will have random numbers 
 
 Next you will want to create 2 new files in that folder.
 
-Right click in a open space and press NEW, You will now see a bunch of stuff you can select but want to create 2 DWORD (32-bit) Value files.
+Right click in a open space and press ```NEW```, You will now see a bunch of stuff you can select but want to create 2 ```DWORD (32-bit) Value``` files.
 
-After you create them rename them by selecting the file and pressing F2 to rename the file. 
+After you create them rename them by selecting the file and pressing ```F2``` to rename the file. 
 
-Rename the files to the 2 names listed below
+*Rename the files to the 2 names listed below*
 
 ```
 TcpAckFrequency
@@ -74,7 +74,7 @@ TcpAckFrequency
 TCPNoDelay
 ```
 
-You will now want to set both of the values for the files by double clicking on them and changing them both to a 1 value
+*You will now want to set both of the values for the files by double clicking on them and changing them both to a 1 value*
 
 ```
 TcpAckFrequency = 1
