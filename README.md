@@ -84,3 +84,5 @@ TcpAckFrequency = 1
 TCPNoDelay = 1
 ```
 *If you are confused at all by anything please let me know and I can describe it better for you in the read.me*
+
+Discord: ruptz#7777
