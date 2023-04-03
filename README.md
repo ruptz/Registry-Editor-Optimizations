@@ -32,7 +32,7 @@ Hexadecimal value: 0
 
 ## Next step
 
-*You will see files on the left, there will be a tasks folder. Go into the folder and you will see a folder inside named "Games" and then open the folder.*
+*You will see files on the left, there will be a tasks folder. Go into tasks folder and you will see a folder inside the tasks folder named "Games" and then open the games folder.*
 
 You will see 8 files, but will only want to change the 4 listed below
 
