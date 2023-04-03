@@ -60,7 +60,7 @@ At the top of your registry editor again click the file path and paste the one b
 
 ``` HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces ```
 
-Next, find your ipv4 address and the files on the left will have random numbers and weird file names, find the folder with ```DhcpIPAddress``` with the correct ipv4 IP Address you saw when you looked yours up.
+Next, find your ipv4 address. you will see files on the left will have random numbers and weird file names, find the folder with ```DhcpIPAddress``` with the correct ipv4 IP Address you saw when you looked yours up.
 
 Next you will want to create 2 new files in that folder.
 
