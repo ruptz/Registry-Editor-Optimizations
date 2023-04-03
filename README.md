@@ -3,7 +3,6 @@
 Open "Registry Editor" on your pc
 
 **BEFORE YOU DO ANYTHING MAKE SURE YOU BACKUP YOUR REGEDIT**
-
 *I am not responsible for anything if you do not save a backup*
 
 Top left "file" then click export and save it to your pc, if you need to put the backup back in your regedit go to "file" top left and click import and import your settings.
