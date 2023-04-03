@@ -1,4 +1,4 @@
-# Regedit-Optimizations
+# Registry Editor Optimizations
 
 Open "Registry Editor" on your pc
 
